@@ -30,6 +30,8 @@ Complete and delete tasks as needed
 
 
 Technologies Used:
+
+
 Frontend: React, Axios, React Icons, React Hooks
 
 
